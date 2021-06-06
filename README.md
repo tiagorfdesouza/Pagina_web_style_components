@@ -3,6 +3,10 @@
 
 
 >Status: Em desivolvimento.
+<br>
+
+>Descrição:<br>
+O objetivo deste desafio Pratico foi criar uma pagina web simples utilizando o React e o Style Components.
   
 >Tecnologias Utilizadas:<br>
 + React;<br>
